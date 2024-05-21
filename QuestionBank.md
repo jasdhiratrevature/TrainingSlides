@@ -29,7 +29,7 @@
 * What are the implicit modifiers for interface variables / methods
 * What are functional interfaces
 * Why was the default keyword introduced for interfaces
-
+---
 
 **Java Collections**
 * What are collections in Java?
@@ -48,6 +48,7 @@
 * How would you iterate over a Map?
 * Which collections cannot hold null values
 * Why does HashTable not take null key
+---
 
 **Exception Handling**
 * What is base class of all exceptions? What interface do they all implement
@@ -66,6 +67,7 @@
 * What are the core interfaces / classes in JDBC
 * What is the difference between Statement and PreparedStatement and CallableStatement
 * Steps to executing an SQL query using JDBC
+---
 
 **Maven**
 * What is maven
@@ -73,16 +75,19 @@
 * what is POM
 * maven lifecycle
 * maven goals
+---
 
 **HTTP**
 * explain HTTP request and response
 * What are HTTP verbs - list them
 * What are HTTP response status code and their categories
+---
 
 **Javalin**
 * What is javalin
 * What are handlers in Javalin? different types of handlers
 * What are the parts of Javalin Handler
+---
 
 **HTML**
 * What is HTML
@@ -92,18 +97,21 @@
 * HTML5 tags
 * comment in HTML
 * tags you would use in a form
+---
 
-**CSS **
+**CSS**
 * What is CSS? what are the different ways of styling an HTML file?
 * Describe the CSS box model.
 * Which way has highest priority when styles cascade: inline, internal, and external.
 * CSS Selectors
+---
 
 **JUNIT**
 * What is JUnit
 * What is TDD
 * What are the annotations in JUnit? 
 * Give an example of a test case
+---
 
 **Testing** 
 * Why test
@@ -116,6 +124,7 @@
 * Types of Testing
 * Testing Pyramid
 * Testing Techniques
+---
 
 **SQL**
 * Explain what SQL is. What are some SQL databases?
@@ -144,6 +153,7 @@
 * What is an index?
 * What's the difference between a clustered and non-clustered index?
 * What is the difference between scalar and aggregate functions? Give examples of each
+---
 
 **Cloud Computing**
 * What is "the cloud" or "cloud computing" and why is it so popular now
@@ -151,6 +161,7 @@
 * Define Infrastructure, Platform, and Software as a Service
 * What's the difference between a Region and an Availability Zone (AZ)
 * What's an RDS
+---
 
 **REST / WebServices**
 * What are the benefits of using web services
@@ -160,6 +171,7 @@
 * What are the components of an HTTP request? HTTP response?
 * What is the difference between GET, POST, PUT, and DELETE methods? Which of these are idempotent?
 * What are query parameters? Path parameters?
+---
 
 **DevOps**
 * What is DevOps? What is the goal of various DevOps processes?
@@ -169,6 +181,7 @@
 * What is SonarQube / SonarCloud? Explain some of the features of it
 * What is a “build”? What is the end result of a build? What is the build tool you’ve used for Java projects?
 * What are the Maven lifecycles? List the steps in the build lifecycle
+---
 
 **Selenium**
 * What is Selenium and describe Selenium Family
@@ -176,6 +189,7 @@
 * What are selenium locators
 * What is xpath
 * what is Page Object Factory in selenium
+---
 
 **BDD, Cucumber and Gherkin**
 * What is BDD, Cucumber and Gherkin
@@ -183,6 +197,7 @@
 * What is a Feature in Cucumber
 * Scenario and Scenario Outline
 * Explain Given, When and Then
+---
 
 **SDLC & Agile** 
 * What are the steps in the software development lifecycle?
@@ -193,6 +208,7 @@
 * What is a "standup" and what should you report about your work
 * What is the role of a "Scrum master" and "Product owner"
 * What is a Scrum board?
+---
 
 **Spring FrameWork**
 * What are Spring Projects and Spring Modules?
@@ -209,7 +225,7 @@
 * What does the @configuration and @Bean annotations do?
 * What is @value used for?
 * What is Spring Expression Language? What can you reference using SpEL? What is the difference between $ and # in @value expressions?
-
+---
 
 **Spring MVC**
 * Explain the MVC architecture and how HTTP requests are processed in the architecture
@@ -225,6 +241,7 @@
 * How do you handle exceptions thrown in your code from your controller? What happens if you don’t set up any exception handling?
 * How would you consume an external web service using Spring?
 * What are the advantages of using RestTemplate?
+---
 
 **Spring AOP**
 * What is “aspect-oriented programming”? Define an aspect.
@@ -236,7 +253,7 @@
 * What are the different types of advice? What is special about the @around advice? How is the ProceedingJoinPoint used?
 * Explain the pointcut expression syntax
 * What visibility must Spring bean methods have to be proxied using Spring AOP?
-
+---
 
 **Spring Data**
 * What is Spring ORM and Spring Data?
@@ -249,6 +266,7 @@
 * What is the naming conventions for methods in Spring Data repositories?
 * How are Spring repositories implemented by Spring at runtime?
 * What is @query used for?
+---
 
 **Spring Boot**
 * How is Spring Boot different from legacy Spring applications? What does it mean that it is “opinionated”?
