@@ -61,6 +61,7 @@
 * Do you need a catch block? Can have more than 1? Order of them
 * Multi-catch block - can you catch more than one exception in a single catch block
 * How do you create custom/user defined exception
+---
 
 **JDBC**
 * What is JDBC
